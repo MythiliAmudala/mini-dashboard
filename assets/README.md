@@ -6,7 +6,7 @@ This project showcases essential front-end development skills including SPA navi
 
 ## Live Demo
 
-🔗 **[View Live Demo](https://your-site-name.netlify.app)**  
+🔗 **[View Live Demo](https://mini-dashboard-mythili.netlify.app/)**  
 *(Replace the link above with your actual Netlify or GitHub Pages URL after deployment)*
 
 ## Features
